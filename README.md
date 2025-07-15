@@ -10,6 +10,7 @@ In this Project, use Python to build an email spam detector. Then, use machine l
 train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
 started!
 here i have used different libraries and packages like pandas for data analysis ,nummpy for mathamatical cslculations 
-
+here i used naive bayas algorithm for classification of data .
+i used sklearn for feature extraction
 
 
